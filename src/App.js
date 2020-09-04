@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import NavBar from "./components/navbar";
 import "./App.css";
 import Counters from "./components/counters";
+import "react-app-polyfill/stable";
 
 class App extends Component {
   state = {
