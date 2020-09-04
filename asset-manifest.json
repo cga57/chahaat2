@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Chahaat/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Chahaat/static/js/main.ac467e74.chunk.js",
-    "main.js.map": "/Chahaat/static/js/main.ac467e74.chunk.js.map",
-    "runtime-main.js": "/Chahaat/static/js/runtime-main.ffe6ebfa.js",
-    "runtime-main.js.map": "/Chahaat/static/js/runtime-main.ffe6ebfa.js.map",
-    "static/css/2.f3cffc9e.chunk.css": "/Chahaat/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.d1400638.chunk.js": "/Chahaat/static/js/2.d1400638.chunk.js",
-    "static/js/2.d1400638.chunk.js.map": "/Chahaat/static/js/2.d1400638.chunk.js.map",
-    "index.html": "/Chahaat/index.html",
-    "precache-manifest.87bcb044aa66365485e45431c9a3dfce.js": "/Chahaat/precache-manifest.87bcb044aa66365485e45431c9a3dfce.js",
-    "service-worker.js": "/Chahaat/service-worker.js",
-    "static/css/2.f3cffc9e.chunk.css.map": "/Chahaat/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/Chahaat/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d1400638.chunk.js.LICENSE.txt": "/Chahaat/static/js/2.d1400638.chunk.js.LICENSE.txt"
+    "main.css": "/chahaat2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chahaat2/static/js/main.2540d91c.chunk.js",
+    "main.js.map": "/chahaat2/static/js/main.2540d91c.chunk.js.map",
+    "runtime-main.js": "/chahaat2/static/js/runtime-main.10e18a70.js",
+    "runtime-main.js.map": "/chahaat2/static/js/runtime-main.10e18a70.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/chahaat2/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.d1400638.chunk.js": "/chahaat2/static/js/2.d1400638.chunk.js",
+    "static/js/2.d1400638.chunk.js.map": "/chahaat2/static/js/2.d1400638.chunk.js.map",
+    "index.html": "/chahaat2/index.html",
+    "precache-manifest.21772db2698bfaa94c7364bc8712d65f.js": "/chahaat2/precache-manifest.21772db2698bfaa94c7364bc8712d65f.js",
+    "service-worker.js": "/chahaat2/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/chahaat2/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/chahaat2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d1400638.chunk.js.LICENSE.txt": "/chahaat2/static/js/2.d1400638.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffe6ebfa.js",
+    "static/js/runtime-main.10e18a70.js",
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.d1400638.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ac467e74.chunk.js"
+    "static/js/main.2540d91c.chunk.js"
   ]
 }
